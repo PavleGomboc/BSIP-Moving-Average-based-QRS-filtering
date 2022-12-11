@@ -1,0 +1,9 @@
+src/*.mat
+src/*.hea
+src/*.asc
+src/*.txt
+src/*.pdf
+src/*.qrs
+src/*.atr
+src/*.dat
+src/*.zip
